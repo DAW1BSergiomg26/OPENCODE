@@ -1,4 +1,7 @@
-﻿## 05/02/2026 09:47:08
+﻿## 05/02/2026 09:47:33
+- Corregir bugs
+
+## 05/02/2026 09:47:08
 - Mejorar documentacion
 
 Actualizacion - 05/02/2026 09:46:49
@@ -18,6 +21,7 @@ Actualizacion - 31/01/2026 20:33:48
 
 Actualizacion - 22/01/2026 16:50:59
 - Mejorar estilos CSS
+
 
 
 
